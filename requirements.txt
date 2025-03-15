@@ -1,0 +1,13 @@
+streamlit
+scikit-learn
+requests
+beautifulsoup4
+torch
+pandas
+numpy
+emoji
+transformers
+wordcloud
+matplotlib
+plotly
+wordcloud
